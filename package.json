@@ -1,0 +1,16 @@
+{
+  "name": "automatuswabot",
+  "version": "1.0.0",
+  "description": "Robo de Auto-Atendimento para Whatsapp WEB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "JobasFernandes",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.14.0"
+  }
+}
