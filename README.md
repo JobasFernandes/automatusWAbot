@@ -29,5 +29,5 @@
 Esse repositório está licenciado pela **Apache-2.0**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
 <h3 align="center">
-Feito por <a href="#">Jobas Fernandes</a>
+Feito por <a href="https://github.com/JobasFernandes">Jobas Fernandes</a>
 </h3>
