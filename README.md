@@ -13,5 +13,5 @@
 
 # Comandos
 
-"!todos" - (Menciona todos os participantes de um grupo)
-"!grupo" - (Detalha as informações do grupo)
+* "!todos" - (Menciona todos os participantes de um grupo)
+* "!grupo" - (Detalha as informações do grupo)
