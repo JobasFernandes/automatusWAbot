@@ -3,6 +3,10 @@
 </h1>
 <p align="center">🚀 Robo de Auto-Atendimento para Whatsapp WEB</p>
 
+<h4 align="center"> 
+	🚧  Implementando novos comandos...  🚧
+</h4>
+
 <img src="https://img.shields.io/static/v1?label=Versao&message=1.0.0&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 # Instalação
