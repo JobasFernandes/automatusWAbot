@@ -9,13 +9,13 @@
 
 <img src="https://img.shields.io/static/v1?label=Versao&message=1.0.0&color=7159c1&style=for-the-badge&logo=ghost"/>
 
-# Instalação
+# :tools:Instalação
 
 - Clone este repositório
 ```git clone https://github.com/JobasFernandes/automatusWAbot.git```
 - Execute o comando ```npm install```
 
-# Como Usar
+# :rocket: Como Usar
 
 - Execute o comando ```npm start```
 - Leia o QR Code no terminal
