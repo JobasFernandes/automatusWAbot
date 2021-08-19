@@ -6,9 +6,7 @@
 # Instalação
 
 - Clone este repositório
-```
-git clone https://github.com/JobasFernandes/automatusWAbot.git
-```
+```git clone https://github.com/JobasFernandes/automatusWAbot.git```
 - Execute o comando ```npm install```
 
 # Como Usar
@@ -18,5 +16,5 @@ git clone https://github.com/JobasFernandes/automatusWAbot.git
 
 # Comandos
 
-```!todos``` - (Menciona todos os participantes de um grupo)
-```!grupo``` - (Detalha as informações do grupo)
+- ```!todos``` - (Menciona todos os participantes de um grupo)
+- ```!grupo``` - (Detalha as informações do grupo)
