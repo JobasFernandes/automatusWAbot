@@ -20,7 +20,7 @@
 - Execute o comando ```npm start```
 - Leia o QR Code no terminal
 
-# Comandos
+# :computer: Comandos
 
 - ```!todos``` - (Menciona todos os participantes de um grupo)
 - ```!grupo``` - (Detalha as informações do grupo)
