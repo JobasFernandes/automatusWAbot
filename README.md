@@ -27,7 +27,7 @@
 
 ## **:star2: AGRADECIMENTOS**
 
-<div align=center-hidden>
+<div hidden align=center>
 
 <table style="width:100%">
   <tr align=center>
