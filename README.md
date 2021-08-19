@@ -7,9 +7,8 @@
 	🚧  Implementando novos comandos...  🚧
 </h4>
 
-<img src="https://img.shields.io/static/v1?label=Versao&message=1.0.0&color=7159c1&style=for-the-badge&logo=ghost"/>
 
-# :tools:Instalação
+# :gear: Instalação
 
 - Clone este repositório
 ```git clone https://github.com/JobasFernandes/automatusWAbot.git```
