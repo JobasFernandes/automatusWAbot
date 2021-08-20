@@ -7,10 +7,10 @@
 </h4>
 
 
-### Pré-Requisitos
+## :triangular_flag_on_post: Pré-Requisitos
 
-- [Node.js](https://nodejs.org/en/download/)
-- [GIT](https://git-scm.com/downloads)
+:white_check_mark: [Node.js](https://nodejs.org/en/download/)
+:white_check_mark: [GIT](https://git-scm.com/downloads)
 
 ## :gear: Instalação
 
