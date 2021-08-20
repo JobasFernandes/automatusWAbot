@@ -1,5 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/JobasFernandes/automatusWAbot">🟢 automatusWAbot 🟢</a>
+	<i class="fab fa-whatsapp"></i>
 </h1>
 <p align="center">🚀 Robo de Auto-Atendimento para Whatsapp WEB</p>
 
