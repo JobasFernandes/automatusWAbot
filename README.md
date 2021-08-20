@@ -29,7 +29,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
-<BR>
 - [QR Code Terminal](https://github.com/gtanner/qrcode-terminal/)
 - [Whatsapp WEB JS](https://github.com/pedroslopez/whatsapp-web.js/)
 
