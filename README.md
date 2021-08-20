@@ -7,23 +7,23 @@
 </h4>
 
 
-# :gear: Instalação
+## :gear: Instalação
 
 - Clone este repositório
 ```git clone https://github.com/JobasFernandes/automatusWAbot.git```
 - Execute o comando ```npm install```
 
-# :rocket: Como Usar
+## :rocket: Como Usar
 
 - Execute o comando ```npm start```
 - Leia o QR Code no terminal
 
-# :computer: Comandos
+## :computer: Comandos
 
 - ```!todos``` - (Menciona todos os participantes de um grupo)
 - ```!grupo``` - (Detalha as informações do grupo)
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
