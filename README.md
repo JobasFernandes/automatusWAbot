@@ -9,6 +9,11 @@
 
 ## :gear: Instalação
 
+### Pré-Requisitos
+
+- [Node.js](https://nodejs.org/en/download/)
+- [GIT](https://git-scm.com/downloads)
+
 - Clone este repositório
 ```
 git clone https://github.com/JobasFernandes/automatusWAbot.git
