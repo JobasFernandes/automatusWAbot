@@ -10,14 +10,20 @@
 ## :gear: Instalação
 
 - Clone este repositório
-```bash
+```
 git clone https://github.com/JobasFernandes/automatusWAbot.git
 ```
-- Execute o comando ```npm install```
+- Execute o comando
+```
+npm install
+```
 
 ## :rocket: Como Usar
 
-- Execute o comando ```npm start```
+- Execute o comando
+```
+npm start
+```
 - Leia o QR Code no terminal
 
 ## :computer: Comandos
