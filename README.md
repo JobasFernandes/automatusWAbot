@@ -29,9 +29,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
-
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+<BR>
+- [QR Code Terminal](https://github.com/gtanner/qrcode-terminal/)
+- [Whatsapp WEB JS](https://github.com/pedroslopez/whatsapp-web.js/)
 
 # **:page_with_curl: Licença**
 
