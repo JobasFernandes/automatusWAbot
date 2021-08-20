@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## **:page_with_curl: Licença**
 
-Esse repositório está licenciado pela **Apache-2.0**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
+Esse repositório está licenciado pela **Apache-2.0**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE).
 
 <h3 align="center">
 Feito por <a href="https://github.com/JobasFernandes">Jobas Fernandes</a>
