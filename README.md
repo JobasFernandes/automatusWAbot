@@ -7,12 +7,12 @@
 </h4>
 
 
-## :gear: Instalação
-
 ### Pré-Requisitos
 
 - [Node.js](https://nodejs.org/en/download/)
 - [GIT](https://git-scm.com/downloads)
+
+## :gear: Instalação
 
 - Clone este repositório
 ```
