@@ -10,7 +10,9 @@
 ## :gear: Instalação
 
 - Clone este repositório
-```git clone https://github.com/JobasFernandes/automatusWAbot.git```
+```bash
+git clone https://github.com/JobasFernandes/automatusWAbot.git
+```
 - Execute o comando ```npm install```
 
 ## :rocket: Como Usar
