@@ -32,7 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [QR Code Terminal](https://github.com/gtanner/qrcode-terminal/)
 - [Whatsapp WEB JS](https://github.com/pedroslopez/whatsapp-web.js/)
 
-# **:page_with_curl: Licença**
+## **:page_with_curl: Licença**
 
 Esse repositório está licenciado pela **Apache-2.0**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
