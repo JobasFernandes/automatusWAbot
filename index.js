@@ -65,6 +65,7 @@ client.on('message', async (msg) => {
     }
 });
 
+// Envia informações sobre o grupo
 client.on('message', async msg => {
     if (msg.body === '!grupo') {
         const chat = await msg.getChat();
