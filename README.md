@@ -23,6 +23,16 @@
 - ```!todos``` - (Menciona todos os participantes de um grupo)
 - ```!grupo``` - (Detalha as informações do grupo)
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
 # **:page_with_curl: Licença**
 
 Esse repositório está licenciado pela **Apache-2.0**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
