@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/JobasFernandes/automatusWAbot"><img padding-top="-10px" width="30px" src="https://camo.githubusercontent.com/9cdad3cea00b1d3142a74eba001d37b41dca6042a2f38b4adbbf0cc8c2b56286/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3337332f504e472f39362f57686174736170705f33373232392e706e67"/> automatusWAbot <img width="30px" src="https://camo.githubusercontent.com/9cdad3cea00b1d3142a74eba001d37b41dca6042a2f38b4adbbf0cc8c2b56286/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3337332f504e472f39362f57686174736170705f33373232392e706e67"/></a>
+    <a href="https://github.com/JobasFernandes/automatusWAbot"><img width="25px" src="https://camo.githubusercontent.com/9cdad3cea00b1d3142a74eba001d37b41dca6042a2f38b4adbbf0cc8c2b56286/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3337332f504e472f39362f57686174736170705f33373232392e706e67"/> automatusWAbot <img width="25px" src="https://camo.githubusercontent.com/9cdad3cea00b1d3142a74eba001d37b41dca6042a2f38b4adbbf0cc8c2b56286/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3337332f504e472f39362f57686174736170705f33373232392e706e67"/></a>
 </h1>
 <p align="center">🚀 Robo de Auto-Atendimento para Whatsapp WEB</p>
 
