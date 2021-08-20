@@ -9,8 +9,8 @@
 
 ## :triangular_flag_on_post: Pré-Requisitos
 
-:white_check_mark: [Node.js](https://nodejs.org/en/download/)
-:white_check_mark: [GIT](https://git-scm.com/downloads)
+:white_check_mark: - [Node.js](https://nodejs.org/en/download/)
+:white_check_mark: - [GIT](https://git-scm.com/downloads)
 
 ## :gear: Instalação
 
